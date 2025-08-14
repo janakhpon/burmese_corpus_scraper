@@ -1,0 +1,19 @@
+[project]
+name = "burmese-corpus-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "click>=8.2.1",
+    "requests>=2.32.4",
+    "polars>=0.20.0",
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "jupyter>=1.0.0",
+    "ipykernel>=6.0.0",
+    "pyarrow>=21.0.0",
+    "playwright>=1.54.0",
+    "pandas>=2.3.1",
+]
