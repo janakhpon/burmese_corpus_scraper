@@ -1,7 +1,7 @@
 [project]
 name = "burmese-corpus-scraper"
 version = "0.1.0"
-description = "Add your description here"
+description = "A web scraping toolkit for collecting Burmese language content from BBC Burmese and other sources. Built for research, NLP, and corpus linguistics applications."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
