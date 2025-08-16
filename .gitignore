@@ -201,7 +201,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Marimo
-marimo/_static/
-marimo/_lsp/
-__marimo__/
+# Telegram
+session_name.session
+session_name.session-journal
+.env 
+
+
+

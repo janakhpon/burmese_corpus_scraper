@@ -1,6 +1,6 @@
 # Burmese Corpus Scraper
 
-A web scraping toolkit for collecting Burmese language content from BBC Burmese and other sources. Built for research, NLP, and corpus linguistics applications.
+A web scraping toolkit for collecting Burmese language content from BBC Burmese, VOA Burmese and Telegram.
 
 ## quick start
 
@@ -34,4 +34,6 @@ uv tree
 uv run jupyter notebook scrape_bbcburmese.ipynb
 # scrape corpus from voaburmese
 uv run scrape_voaburmese.py
+# scrape corpus from telegram
+uv run scrape_telegramchannels.py
 ```

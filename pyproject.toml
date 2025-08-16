@@ -16,4 +16,6 @@ dependencies = [
     "pyarrow>=21.0.0",
     "playwright>=1.54.0",
     "pandas>=2.3.1",
+    "dotenv>=0.9.9",
+    "telethon>=1.40.0",
 ]
